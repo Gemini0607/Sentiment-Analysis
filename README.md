@@ -14,3 +14,5 @@ These algos have been implemented on the 60K+ data ie individual texts.
 
 # Aim
 The aim was to compare the accuracies of the different algos used on both versions of the data.
+
+If anyone has annysuggestions on how to improve the pre-processing or the classifier accuracies, do let us know. Thank You
