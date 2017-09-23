@@ -13,6 +13,6 @@ These algos have been implemented on the 60K+ data ie individual texts.
 2. dataset_of_2000 ipython notebook contains implementation of the same classification algos, but on the original labelled data of 1000 positive and 1000 negative files, which have also been pre-processed.
 
 # Aim
-The aim was to compare the accuracies of the different algos used on both versions of the data.
+The aim was to compare the accuracies of the different algorithms used on both versions of the data.
 
-If anyone has annysuggestions on how to improve the pre-processing or the classifier accuracies, do let us know. Thank You
+
